@@ -32,8 +32,6 @@ npm install
 3️⃣ Run Tailwind in Dev Mode
 npx tailwindcss -i ./main.css -o ./dist/output.css --watch
 
-Project Preview: [Live Demo here](tailwind-payment-site-57wo9j282-paras941s-projects.vercel.app)
-
 
 📜 License
 This project is open source under the MIT Licens
